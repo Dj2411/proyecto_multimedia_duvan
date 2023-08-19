@@ -1,0 +1,19 @@
+.p5{
+    color: black;
+    background-color: rgba(255, 255, 255, 0.356);
+    font-family: Arial;
+}
+.t5{
+    margin: 5px;
+    font-family: Arial;
+    background-color: rgb(218, 199, 199) ;
+    float: none;
+    color: rgb(90, 0, 0);
+    list-style-type: none;
+    padding: 20px;
+    text-align: justify;
+    display: flex;
+}
+body{
+    background-color:rgb(61, 61, 88);
+}

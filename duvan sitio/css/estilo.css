@@ -1,0 +1,39 @@
+.menu{
+    font-family: Arial;
+    float: none;
+    color: black;
+    list-style-type: none;
+    display: flex;
+    background-color: rgb(76, 79, 245);
+    margin: 1%;
+    padding: 1%;
+    justify-content:space-around;
+    margin-right: 20px;
+    font-size: 30px;
+}
+body{
+    background-color: rgb(51, 160, 194);
+    
+}
+p{
+    display: flex;
+    justify-content: space-between;
+    background-color: #adeeeb;
+    padding: 10px;
+    font-size: 25px;
+    font-family: Arial, sans-serif;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-size: 35px;
+    font-family: Arial, sans-serif;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+}

@@ -1,0 +1,22 @@
+.p4{
+    color: black;
+    justify-content: center;
+    font-size: 25px;
+}
+.T1{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(247, 2, 2);
+}
+body{
+    background-color: darkkhaki;
+}
+img{
+    background-color: rgb(201, 117, 117);
+    padding:1%;
+    margin-right: 40%;
+    margin-left: 40%;
+}
